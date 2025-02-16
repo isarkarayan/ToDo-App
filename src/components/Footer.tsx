@@ -35,7 +35,7 @@ export function Footer() {
             <Link href="/terms">Terms of Service</Link>
           </div>
           <p className="text-center text-gray-500 text-sm">
-            Copyright © {new Date().getFullYear()} Todo App. All rights reserved.
+            Copyright © {new Date().getFullYear()} ToDo Note. All rights reserved.
           </p>
         </div>
       </div>
