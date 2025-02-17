@@ -31,8 +31,8 @@ export function Footer() {
             Made with <Heart className="h-4 w-4 mx-1 text-red-500" /> by Ayan Sarkar
           </div>
           <div className="flex space-x-4 text-sm">
-            <Link href="/privacy">Privacy Policy</Link>
-            <Link href="/terms">Terms of Service</Link>
+            <Link href="/privacy-policy">Privacy Policy</Link>
+            <Link href="/terms-of-service">Terms of Service</Link>
           </div>
           <p className="text-center text-gray-500 text-sm">
             Copyright © {new Date().getFullYear()} ToDo Note. All rights reserved.
