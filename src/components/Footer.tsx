@@ -8,19 +8,19 @@ export function Footer() {
       <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center space-y-4">
           <div className="flex items-center space-x-4">
-            <a href="https://github.com/ayansarkar" 
+            <a href="https://github.com/iayansarkar" 
                className="text-gray-400 hover:text-gray-600 transition-colors"
                target="_blank"
                rel="noopener noreferrer">
               <Github className="h-5 w-5" />
             </a>
-            <a href="https://linkedin.com/in/ayansarkar" 
+            <a href="https://linkedin.com/in/iayansarkar" 
                className="text-gray-400 hover:text-gray-600 transition-colors"
                target="_blank"
                rel="noopener noreferrer">
               <Linkedin className="h-5 w-5" />
             </a>
-            <a href="https://twitter.com/ayansarkar" 
+            <a href="https://twitter.com/iayansarkar" 
                className="text-gray-400 hover:text-gray-600 transition-colors"
                target="_blank"
                rel="noopener noreferrer">
